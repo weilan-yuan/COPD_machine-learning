@@ -10,8 +10,10 @@ Paper:"Development of a machine learning tool in the prediction of chronic obstr
 3：copd_validate_final_code.ipynb 
      Test the 6 models(from the train data) in test_data and set the model parameter to get the best result. The result is table and AUROC and PRROC. 
 ## data file  
+
 4：data_1024  (input file)   
 the 20191023_finalalldata.csv
+
 5：result_1024 (result file)  
     feature_importance (plot)
    only use the xgboost method to get the all feature importance.
