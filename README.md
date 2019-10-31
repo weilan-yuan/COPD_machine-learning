@@ -5,7 +5,7 @@ Paper:"Development of a machine learning tool in the prediction of chronic obstr
 1: data_clean.ipynb  
     Split <the 20191023_finalalldata.csv > to train data and test data  (train_data.csv & test_data.csv)   
 2: copd_trainset_final_code.ipynb 
-     Use the machine learning method(SVM，LogisticRegression，DecisionTree，Nerualnetwork，Xgboost，KNN) with CV =5 to select the model and get average value of different evaluation parameter.The result is 5fold table and AUROC and PRRUC with 5fold label. 
+     Use the machine learning method(SVM，LogisticRegression，DecisionTree，MLP，Xgboost，KNN) with CV =5 to select the model and get average value of different evaluation parameter.The result is 5fold table and AUROC and PRROC with 5fold label. 
 
 3：copd_validate_final_code.ipynb 
      Test the 6 models(from the train data) in test_data and set the model parameter to get the best result. The result is table and AUROC and PRROC. 
