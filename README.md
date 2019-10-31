@@ -10,7 +10,7 @@ Paper:"Development of a machine learning tool in the prediction of chronic obstr
 
 3:copd_validate_final_code.ipynb 
      test the 6 models(from the train data) in test_data (set the model parameter). The result is table and AUROC and PRRUC  
-#### data file  
+## data file  
 data_1024  (input file )
 result_1024( result file) 
 4: feature_importance 
