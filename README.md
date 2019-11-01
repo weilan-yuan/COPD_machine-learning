@@ -1,5 +1,5 @@
 # COPD_machine-learning
-Paper:"Development of a machine learning tool in the prediction of chronic obstructive pulmonary disease in Chinese population"
+Paper:"Comparison and development of machine learning tools for the prediction of chronic obstructive pulmonary disease in the Chinese population"
 ###
 ## python code 
 1: data_clean.ipynb  
