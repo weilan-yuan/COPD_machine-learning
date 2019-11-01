@@ -17,6 +17,6 @@ Paper:"Development of a machine learning tool in the prediction of chronic obstr
 
 5: result_1024 (result file)  
    feature_importance (plot):only use the xgboost method to get the all feature importance.
-   allfeature file: Result from above (2,3 code) include the 5 clinical features and 9 SNP OR values. 
+   allfeature file: Result from above (2,3 code) include the 5 clinical features and 9 SNPs OR values. 
    clinical file:  Result from above (2,3 code） just only include the 5 clinical feaures OR values.
-   feature_snp file: Result from above (2,3 code) just only incule the 9 SNP OR values.
+   feature_snp file: Result from above (2,3 code) just only incule the 9 SNPs OR values.
